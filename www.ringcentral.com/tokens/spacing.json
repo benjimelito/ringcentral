@@ -1,0 +1,44 @@
+{
+  "spacing-xs": {
+    "value": "4px",
+    "description": "Observed 60x on https://www.ringcentral.com, https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 60,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "spacing-xs-1": {
+    "value": "0px",
+    "description": "Observed 9x on https://www.ringcentral.com, https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+    "usageCount": 9,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html"
+    ]
+  },
+  "spacing-sm": {
+    "value": "5px",
+    "description": "Observed 3x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "spacing-2xl": {
+    "value": "33.723653395784545%",
+    "description": "Observed 3x on https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases"
+    ]
+  }
+}

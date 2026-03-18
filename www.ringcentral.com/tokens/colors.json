@@ -1,0 +1,281 @@
+{
+  "color-fff": {
+    "value": "#fff",
+    "description": "Observed 81x on https://www.ringcentral.com, https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+    "usageCount": 81,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html"
+    ]
+  },
+  "color-brand-accent": {
+    "value": "#007db8",
+    "description": "Observed 75x on https://www.ringcentral.com, https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 75,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-8c8c8c": {
+    "value": "#8c8c8c",
+    "description": "Observed 67x on https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+    "usageCount": 67,
+    "observedOn": [
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html"
+    ]
+  },
+  "color-brand-textprimary": {
+    "value": "#2b2926",
+    "description": "Observed 60x on https://www.ringcentral.com, https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 60,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-brand-background": {
+    "value": "#ffffff",
+    "description": "Observed 60x on https://www.ringcentral.com, https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 60,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-a0a09f": {
+    "value": "#a0a09f",
+    "description": "Observed 23x on https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+    "usageCount": 23,
+    "observedOn": [
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html"
+    ]
+  },
+  "color-brand-primary": {
+    "value": "#e91207",
+    "description": "Observed 20x on https://www.ringcentral.com, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+    "usageCount": 20,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html"
+    ]
+  },
+  "color-button-primary-bg": {
+    "value": "transparent",
+    "description": "Observed 15x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 15,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-ff7a00": {
+    "value": "#ff7a00",
+    "description": "Observed 15x on https://www.ringcentral.com, https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 15,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-brand-link": {
+    "value": "#0000ee",
+    "description": "Observed 10x on https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html"
+    ]
+  },
+  "color-ffc440": {
+    "value": "#ffc440",
+    "description": "Observed 9x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 9,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-e7bcff": {
+    "value": "#e7bcff",
+    "description": "Observed 9x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 9,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-ffa297": {
+    "value": "#ffa297",
+    "description": "Observed 9x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 9,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-c7c6c5": {
+    "value": "#c7c6c5",
+    "description": "Observed 8x on https://www.ringcentral.com, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+    "usageCount": 8,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html"
+    ]
+  },
+  "color-eaeaea": {
+    "value": "#eaeaea",
+    "description": "Observed 6x on https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+    "usageCount": 6,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases"
+    ]
+  },
+  "color-0684bc": {
+    "value": "#0684bc",
+    "description": "Observed 6x on https://www.ringcentral.com, https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 6,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-ffacac": {
+    "value": "#ffacac",
+    "description": "Observed 3x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-ff670a": {
+    "value": "#ff670a",
+    "description": "Observed 3x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-ff892c": {
+    "value": "#ff892c",
+    "description": "Observed 3x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-ff9750": {
+    "value": "#ff9750",
+    "description": "Observed 3x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-ff9876": {
+    "value": "#ff9876",
+    "description": "Observed 3x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-ffa1b7": {
+    "value": "#ffa1b7",
+    "description": "Observed 3x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-ffd1e3": {
+    "value": "#ffd1e3",
+    "description": "Observed 3x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-f03": {
+    "value": "#f03",
+    "description": "Observed 3x on https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases"
+    ]
+  },
+  "color-000": {
+    "value": "#000",
+    "description": "Observed 3x on https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases"
+    ]
+  },
+  "color-ff882f": {
+    "value": "#ff882f",
+    "description": "Observed 3x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-ffa278": {
+    "value": "#ffa278",
+    "description": "Observed 3x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 3,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "color-f1efec": {
+    "value": "#f1efec",
+    "description": "Observed 2x on https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html"
+    ]
+  }
+}

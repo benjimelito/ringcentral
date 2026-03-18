@@ -1,0 +1,69 @@
+/**
+ * SystemMiner Design Tokens
+ * Extracted from: https://www.ringcentral.com/
+ * Generated: 2026-03-18T20:38:03.086Z
+ * 
+ * Usage: Import this file in your index.css
+ * All tokens use --sm- prefix for namespacing
+ */
+
+:root {
+  /* ======================== */
+  /* Colors                   */
+  /* ======================== */
+  --sm-color-fff: #fff; /* 81x */
+  --sm-color-brand-accent: #007db8; /* 75x */
+  --sm-color-8c8c8c: #8c8c8c; /* 67x */
+  --sm-color-brand-textprimary: #2b2926; /* 60x */
+  --sm-color-brand-background: #ffffff; /* 60x */
+  --sm-color-a0a09f: #a0a09f; /* 23x */
+  --sm-color-brand-primary: #e91207; /* 20x */
+  --sm-color-button-primary-bg: transparent; /* 15x */
+  --sm-color-ff7a00: #ff7a00; /* 15x */
+  --sm-color-brand-link: #0000ee; /* 10x */
+  --sm-color-ffc440: #ffc440; /* 9x */
+  --sm-color-e7bcff: #e7bcff; /* 9x */
+  --sm-color-ffa297: #ffa297; /* 9x */
+  --sm-color-c7c6c5: #c7c6c5; /* 8x */
+  --sm-color-eaeaea: #eaeaea; /* 6x */
+  --sm-color-0684bc: #0684bc; /* 6x */
+  --sm-color-ffacac: #ffacac; /* 3x */
+  --sm-color-ff670a: #ff670a; /* 3x */
+  --sm-color-ff892c: #ff892c; /* 3x */
+  --sm-color-ff9750: #ff9750; /* 3x */
+  --sm-color-ff9876: #ff9876; /* 3x */
+  --sm-color-ffa1b7: #ffa1b7; /* 3x */
+  --sm-color-ffd1e3: #ffd1e3; /* 3x */
+  --sm-color-f03: #f03; /* 3x */
+  --sm-color-000: #000; /* 3x */
+  --sm-color-ff882f: #ff882f; /* 3x */
+  --sm-color-ffa278: #ffa278; /* 3x */
+  --sm-color-f1efec: #f1efec; /* 2x */
+
+  /* ======================== */
+  /* Typography               */
+  /* ======================== */
+  --sm-font-family-1: Neue Haas Grotesk Display Pro; /* 180x */
+  --sm-font-heading-2: 48px; /* 50x */
+  --sm-font-heading-3: 60px; /* 40x */
+  --sm-font-body-4: 24px; /* 30x */
+  --sm-font-body-5: 14px; /* 30x */
+  --sm-font-heading-6: 32px; /* 30x */
+
+  /* ======================== */
+  /* Spacing                  */
+  /* ======================== */
+  --sm-spacing-xs: 4px; /* 60x */
+  --sm-spacing-xs-1: 0px; /* 9x */
+  --sm-spacing-sm: 5px; /* 3x */
+  --sm-spacing-2xl: 33.723653395784545%; /* 3x */
+
+  /* ======================== */
+  /* Effects                  */
+  /* ======================== */
+  --sm-radius-1: 20px; /* 40x */
+  --sm-radius-2: 12px; /* 20x */
+  --sm-radius-3: 40px; /* 15x */
+  --sm-radius-4: 28px; /* 5x */
+
+}

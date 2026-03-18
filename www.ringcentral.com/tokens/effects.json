@@ -1,0 +1,40 @@
+{
+  "radius-1": {
+    "value": "20px",
+    "description": "Observed 40x on https://www.ringcentral.com, https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 40,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "radius-2": {
+    "value": "12px",
+    "description": "Observed 20x on https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+    "usageCount": 20,
+    "observedOn": [
+      "https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html"
+    ]
+  },
+  "radius-3": {
+    "value": "40px",
+    "description": "Observed 15x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 15,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "radius-4": {
+    "value": "28px",
+    "description": "Observed 5x on https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+    "usageCount": 5,
+    "observedOn": [
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html"
+    ]
+  }
+}

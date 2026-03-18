@@ -1,0 +1,67 @@
+{
+  "font-family-1": {
+    "value": "Neue Haas Grotesk Display Pro",
+    "description": "Observed 180x on https://www.ringcentral.com, https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 180,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "font-heading-2": {
+    "value": "48px",
+    "description": "Observed 50x on https://www.ringcentral.com, https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 50,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "font-heading-3": {
+    "value": "60px",
+    "description": "Observed 40x on https://www.ringcentral.com, https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 40,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "font-body-4": {
+    "value": "24px",
+    "description": "Observed 30x on https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples, https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases, https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.ringcentral.com/us/en/blog/cold-calling-scripts-7-examples",
+      "https://www.ringcentral.com/us/en/blog/top-14-virtual-event-ideas-and-use-cases",
+      "https://www.ringcentral.com/us/en/blog/how-do-i-listen-to-my-voicemail"
+    ]
+  },
+  "font-body-5": {
+    "value": "14px",
+    "description": "Observed 30x on https://www.ringcentral.com, https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.ringcentral.com",
+      "https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html"
+    ]
+  },
+  "font-heading-6": {
+    "value": "32px",
+    "description": "Observed 30x on https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html, https://www.ringcentral.com/features/local-numbers/area-code-732-848.html",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.ringcentral.com/whyringcentral/company/pressreleases/ringcentral-announces-fourth-quarter-and-fiscal-year-2025-results.html",
+      "https://www.ringcentral.com/features/local-numbers/area-code-732-848.html"
+    ]
+  }
+}
